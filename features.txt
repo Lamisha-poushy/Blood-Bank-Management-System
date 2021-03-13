@@ -1,0 +1,18 @@
+This project was created for Receivers and Hospitals where a Hospital user can add blood sample to their blood bank and Receiver users can request for the blood sample. Skills has used like HTML, CSS, Bootstrap, JavaScript as a frontend, PHP as a backend and MySQL for the database.
+
+Database name - bloodbank
+
+Hospitals feature -
+
+1.Can use Login/Logout system.
+2.Hospitals can see receivers information
+3.Hospital can edit(add/update/delete) blood requests.
+4.Hospital can confirm whenever the blood samples are avaibles or not.
+
+
+Receivers feature -
+
+1.Can use Login/Logout system.
+2.Receivers can see hospitals information
+3.Receivers can request for blood.
+4.Receivers can see whenever the blood samples are avaibles or not.
